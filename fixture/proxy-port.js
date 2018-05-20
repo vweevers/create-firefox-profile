@@ -1,0 +1,10 @@
+user_pref('browser.shell.checkDefaultBrowser', false);
+user_pref('network.proxy.http', "example.local");
+user_pref('network.proxy.http_port', 3000);
+user_pref('network.proxy.type', 1);
+user_pref('browser.cache.disk.capacity', 0);
+user_pref('browser.cache.disk.smart_size.enabled', false);
+user_pref('browser.cache.disk.smart_size.first_run', false);
+user_pref('browser.sessionstore.resume_from_crash', false);
+user_pref('browser.startup.page', 0);
+user_pref('network.proxy.no_proxies_on', "");

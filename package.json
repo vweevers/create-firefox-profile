@@ -1,0 +1,37 @@
+{
+  "name": "create-firefox-profile",
+  "version": "0.0.1",
+  "description": "Create a temporary Firefox profile folder for test runs",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "tempy": "~0.2.1"
+  },
+  "devDependencies": {
+    "rimraf": "~2.6.2",
+    "standard": "~11.0.1",
+    "tape": "~4.9.0"
+  },
+  "standard": {
+    "ignore": [
+      "fixture/"
+    ]
+  },
+  "keywords": [
+    "ff",
+    "firefox",
+    "prefs",
+    "profile",
+    "testing",
+    "browser"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "vweevers/create-firefox-profile",
+  "bugs": "https://github.com/vweevers/create-firefox-profile/issues",
+  "homepage": "https://github.com/vweevers/create-firefox-profile"
+}
