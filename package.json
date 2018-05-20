@@ -1,6 +1,6 @@
 {
   "name": "create-firefox-profile",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create a temporary Firefox profile folder for test runs",
   "license": "MIT",
   "author": "Vincent Weevers",
