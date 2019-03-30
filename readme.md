@@ -7,7 +7,7 @@
 [![Travis build status](https://img.shields.io/travis/vweevers/create-firefox-profile.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/create-firefox-profile)
 [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/create-firefox-profile.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/create-firefox-profile)
 [![Dependency status](https://img.shields.io/david/vweevers/create-firefox-profile.svg?style=flat-square)](https://david-dm.org/vweevers/create-firefox-profile)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/create-firefox-profile.svg)](https://greenkeeper.io/)
 
 ## Example
 
